@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+*.cab
+*.lnk
+*.exe
+*.dll
+*.msi
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temp
+*.log
+*.tmp
+node_modules/
+
+# OS files
+.DS_Store
+desktop.ini
